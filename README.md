@@ -10,7 +10,11 @@ Due to daily quota limitations of the YouTube Data API, this demonstration uses 
 > **Note:**  
 > *This Streamlit application is hosted on the free tier of Hugging Face Spaces. If the app has been idle for more than 24 hours, it may take some time to reactivate. In such cases, please click “Restart this Space” to relaunch the application. Thank you for your patience.*
 
-The project consists of two main stages:
+---
+
+## Stages of Development
+
+The whole project consists of two main stages:
 
 1. **Model Development**
    - Data preprocessing and exploratory analysis
