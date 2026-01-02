@@ -94,9 +94,9 @@ Due to daily quota limitations of the YouTube Data API, this demonstration uses 
 
 ## Full Application
 
-In a full implementation of this application, users would be able to input any YouTube video URL, allowing the system to extract comments in real time using the YouTube Data API. Please check out the following link for the full implementation of the application:
+In a full implementation of this application, users would be able to input any YouTube video URL, allowing the system to extract comments in real time using the YouTube Data API. Please check out [here](https://youtu.be/KlG7qcbPQD4) for the full implementation of the application:
 
-[![Streamlit App Demo](images/full_app.png)](https://youtu.be/KlG7qcbPQD4)
+![Streamlit App Demo](images/full_app.png)
 
 ---
 
@@ -110,4 +110,4 @@ In a full implementation of this application, users would be able to input any Y
 
 ## Author
 
-Developed by **[Carmen Wong]**
+Developed by **Carmen Wong**
