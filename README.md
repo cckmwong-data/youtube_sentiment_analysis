@@ -31,11 +31,13 @@ The whole project consists of two main stages:
 - Trained on labeled sentiment data ([Sentiment140](https://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip))
 - Captures sequential and contextual patterns in text
 - Saved and uploaded to Hugging Face for inference
+- Lightweight and fast to run
 
 ### Transformer Model (RoBERTa)
 - Pre-trained transformer-based sentiment analysis model
 - Provides robust contextual understanding and strong performance
-- Used as an alternative to the custom LSTM model
+- High accuracy on negations and subtle emotional cues
+- Longer processing time due to larger model and heavier memory usage
 
 ---
 
@@ -63,22 +65,22 @@ In a full implementation of this application, users would be able to input any Y
 
 ---
 
-## Available Video Categories
-
-The demonstration includes preloaded YouTube comments from the following categories:
-
-- New product teaser
-- Game trailer
-- Social topic
-
----
-
-## Use Cases and Value
+## Sentiment & Business Insight
 
 ### New Product Teasers
+#### Aim
 - Measure customer excitement before product launch
 - Identify potential concerns or negative reactions
 - Improve marketing strategies and product positioning
+
+#### Analysis
+The overall sentiment analysis indicates a slightly positive but polarized user perception, with an average sentiment score of 0.58 / 1.00 across 402 comments. Positive feedback represents the largest share (44.8%), followed by neutral (28.9%) and negative (26.4%) comments. While positive sentiment dominates, the wide score dispersion highlights a clear divide between enthusiastic supporters and dissatisfied users.
+
+From a business perspective, user sentiment is strongly feature-driven rather than brand-driven. Word cloud analysis shows that discussions are centered on product capabilities such as lens quality, sensor performance, battery life, software updates, and upgrades. Positive sentiment aligns closely with purchase intent and upgrade interest, indicating strong demand among early adopters and existing users.
+
+The recurring presence of “upgrade” in both positive and negative contexts reflects high customer expectations, where incremental improvements risk backlash if they fail to deliver meaningful value.
+
+Additionally, frequent mentions of competitors including DJI and Osmo highlight a highly competitive market with low switching costs, increasing the importance of clear differentiation and transparent communication.
 
 ### Game Trailers
 - Understand player expectations and engagement
@@ -89,15 +91,6 @@ The demonstration includes preloaded YouTube comments from the following categor
 - Monitor public sentiment
 - Assess reputational impact
 - Inform communication and policy strategies
-
----
-
-## System Workflow
-
-1. User selects a YouTube video category
-2. User selects a sentiment analysis model (LSTM or RoBERTa)
-3. Preloaded comments are analyzed
-4. Sentiment predictions are generated and displayed in the Streamlit app
 
 ---
 
