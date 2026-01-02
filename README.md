@@ -114,4 +114,4 @@ In a full implementation of this application, users would be able to input any Y
 
 ## Author
 
-Developed by **Carmen Wong**
+**Carmen Wong**
