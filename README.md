@@ -96,7 +96,7 @@ The demonstration includes preloaded YouTube comments from the following categor
 
 ## Full Application
 
-In a full implementation of this application, users would be able to input any YouTube video URL, allowing the system to extract comments in real time using the YouTube Data API. Please check out [here](https://youtu.be/KlG7qcbPQD4) for the full implementation of the application:
+In a full implementation of this application, users would be able to input any YouTube video URL, allowing the system to extract comments in real time using the YouTube Data API. Please check out [here](https://youtu.be/KlG7qcbPQD4) for the video demonstration of full implementation:
 
 ![Streamlit App Demo](images/full_app.png)
 
