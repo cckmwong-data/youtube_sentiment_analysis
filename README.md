@@ -82,6 +82,8 @@ The recurring presence of “upgrade” in both positive and negative contexts r
 
 Additionally, frequent mentions of competitors including DJI and Osmo highlight a highly competitive market with low switching costs, increasing the importance of clear differentiation and transparent communication.
 
+![](images/teaser2.png)
+
 ### Game Trailers
 - Understand player expectations and engagement
 - Anticipate audience reception
