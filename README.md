@@ -25,7 +25,7 @@ The project consists of two main stages:
 ## Models
 
 ### Custom LSTM Model
-- Trained on labeled sentiment data (Sentiment140)
+- Trained on labeled sentiment data ([Sentiment140](https://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip))
 - Captures sequential and contextual patterns in text
 - Saved and uploaded to Hugging Face for inference
 
