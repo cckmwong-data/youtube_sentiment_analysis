@@ -6,7 +6,6 @@ This project presents an end-to-end sentiment analysis system for YouTube commen
 
 > **Note:**  
 > *This Streamlit application is hosted on the free tier of Hugging Face Spaces. If the app has been idle for more than 24 hours, it may take some time to reactivate. In such cases, please click “Restart this Space” to relaunch the application. Thank you for your patience.*
-> ![Relaunch](images/restart.png)
 
 The project consists of two main stages:
 
