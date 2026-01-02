@@ -52,7 +52,7 @@ The final deliverable of this project is a [Streamlit web application](https://h
   - Custom LSTM
   - Transformer (RoBERTa)
 - Sentiment analysis on preloaded YouTube comments
-- Interactive and real-time result display
+- Interactive results display
 
 ---
 
