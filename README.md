@@ -47,6 +47,8 @@ In a full implementation, users would be able to input any YouTube video URL and
 
 The final deliverable of this project is a [Streamlit web application](https://huggingface.co/spaces/cckmwong/youtube_sentiment_demo) deployed on Hugging Face Spaces. We do not consider Streamlit Community Cloud due to the large file size of the model and complexity of the project.
 
+![Hugginng Face](images/hugging_face.png)
+
 ### Features of the Demo Application
 - Model selection:
   - Custom LSTM
