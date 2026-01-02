@@ -67,7 +67,7 @@ In a full implementation of this application, users would be able to input any Y
 
 ## Sentiment & Business Insight
 
-### New Product Teasers
+### New Product Teaser - Everything New with GoPro HERO13 Black
 #### Aim
 - Measure customer excitement before product launch
 - Identify potential concerns or negative reactions
@@ -85,9 +85,12 @@ Additionally, frequent mentions of competitors including DJI and Osmo highlight 
 ![](images/teaser2.png)
 
 ### Game Trailers
+#### Aim
 - Understand player expectations and engagement
 - Anticipate audience reception
 - Support promotional decision-making
+
+#### Analysis
 
 ### Social Topics
 - Monitor public sentiment
