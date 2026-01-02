@@ -96,7 +96,7 @@ Due to daily quota limitations of the YouTube Data API, this demonstration uses 
 
 In a full implementation of this application, users would be able to input any YouTube video URL, allowing the system to extract comments in real time using the YouTube Data API. Please check out the following link for the full implementation of the application:
 
-[Hugging Face Space – Streamlit App](<INSERT_LINK_HERE>)
+[![Streamlit App Demo](images/full_app.png)](https://youtu.be/KlG7qcbPQD4)
 
 ---
 
