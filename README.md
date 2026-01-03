@@ -1,4 +1,4 @@
-# Deep Learning–Based Sentiment Analysis for YouTube Comments
+# Deep Learning–Based Sentiment Analysis
 
 ## Project Overview
 
@@ -82,6 +82,11 @@ The recurring presence of “upgrade” in both positive and negative contexts r
 
 Additionally, **frequent mentions of competitors including DJI and Osmo highlight a highly competitive market with low switching costs**, increasing the importance of clear differentiation and transparent communication.
 
+#### Actionable Insights
+Since there are concerns over specific product capabilities, the company can anchor marketing messages around quantifiable improvements: battery life increase (% or minutes), sensor performance (low-light, resolution, FPS), software or stabilization upgrades. 
+
+In view of the fierce competition with low switching cost, the company can differentiate itself by explicitly position HERO13 against competitor by identifying the strengths competitors can’t match, for instance durability abd accessories.
+
 ### Game Trailer - Fallout 4: Anniversary Edition
 #### Aim
 - Understand player expectations and engagement
@@ -96,6 +101,9 @@ From a business perspective, conversation is **heavily franchise- and release-dr
 Negative sentiment, however, is more prevalent and more specific. Common terms such as “old,” “nothing,” “mod,” “wait,” “money,” “need,” and “play Skyrim again” point to frustration with perceived lack of innovation, repetitive re-releases, and reliance on modding communities. Complaints appear less about technical failure and more about strategic direction and content freshness.
 
 **The recurring appearance of “remaster” and “new version” in negative contexts suggests release fatigue.** Users expect substantive changes, not incremental updates to existing titles. When expectations are unmet, disappointment translates quickly into negative sentiment.
+
+#### Actionable Insights
+Sentiment is strongly influenced by release strategy, with disappointment in release fatigue. The company can lead messaging with what is genuinely new including systems, content depth and mechanics. 
 
 ### Social Topic - What is London's controversial Ulez expansion?
 - Monitor public sentiment
