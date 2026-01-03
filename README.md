@@ -91,6 +91,17 @@ Additionally, frequent mentions of competitors including DJI and Osmo highlight 
 - Support promotional decision-making
 
 #### Analysis
+The overall sentiment for this dataset skews negative and polarized, with an average sentiment score of 0.47 / 1.00 across 458 comments. Negative sentiment dominates the discussion (45.0%), outweighing positive (30.8%) and neutral (24.2%) feedback. The wide dispersion of sentiment scores confirms a strong divide between dissatisfied users and a smaller but vocal positive group.
+
+From a business perspective, conversation is heavily franchise- and release-driven rather than centered on gameplay mechanics alone. Word cloud analysis shows dominant themes such as “Fallout,” “Bethesda,” “new,” “version,” “remaster,” “release,” and “DLC,” indicating that user sentiment is shaped largely by expectations around new releases, remakes, and updates.
+
+Positive sentiment is fueled by nostalgia and anticipation, reflected in terms like “new Vegas,” “remaster,” “anniversary,” “free,” and “awesome.” These users express excitement about revisiting familiar titles and perceive value when content additions or updates feel meaningful.
+
+Negative sentiment, however, is more prevalent and more specific. Common terms such as “old,” “nothing,” “mod,” “wait,” “money,” “need,” and “play Skyrim again” point to frustration with perceived lack of innovation, repetitive re-releases, and reliance on modding communities. Complaints appear less about technical failure and more about strategic direction and content freshness.
+
+The recurring appearance of “remaster” and “new version” in negative contexts suggests release fatigue. Users expect substantive changes, not incremental updates to existing titles. When expectations are unmet, disappointment translates quickly into negative sentiment.
+
+![](images/game2.png)
 
 ### Social Topics
 - Monitor public sentiment
