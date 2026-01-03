@@ -101,7 +101,7 @@ Negative sentiment, however, is more prevalent and more specific. Common terms s
 
 ![](images/game2.png)
 
-### Social Topics
+### Social Topic - What is London's controversial Ulez expansion?
 - Monitor public sentiment
 - Assess reputational impact
 - Inform communication and policy strategies
