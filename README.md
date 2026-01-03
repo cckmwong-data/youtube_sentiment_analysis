@@ -31,13 +31,13 @@ The whole project consists of two main stages:
 - Trained on labeled sentiment data ([Sentiment140](https://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip))
 - Captures sequential and contextual patterns in text
 - Saved and uploaded to Hugging Face for inference
-- Lightweight and fast to run
+- **Lightweight and fast to run**
 
 ### Transformer Model (RoBERTa)
 - Pre-trained transformer-based sentiment analysis model
 - Provides robust contextual understanding and strong performance
-- High accuracy on negations and subtle emotional cues
-- Longer processing time due to larger model and heavier memory usage
+- **High accuracy on negations and subtle emotional cues**
+- **Longer processing time due to larger model and heavier memory usage**
 
 ---
 
