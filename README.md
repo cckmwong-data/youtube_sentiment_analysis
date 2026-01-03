@@ -76,15 +76,15 @@ In a full implementation of this application, users would be able to input any Y
 #### Analysis
 The overall sentiment analysis indicates a slightly positive but polarized user perception, with an average sentiment score of 0.58 / 1.00 across 402 comments. Positive feedback represents the largest share (44.8%), followed by neutral (28.9%) and negative (26.4%) comments. While positive sentiment dominates, the wide score dispersion highlights a clear divide between enthusiastic supporters and dissatisfied users.
 
-From a business perspective, user sentiment is strongly feature-driven rather than brand-driven. Word cloud analysis shows that discussions are centered on product capabilities such as lens quality, sensor performance, battery life, software updates, and upgrades. Positive sentiment aligns closely with purchase intent and upgrade interest, indicating strong demand among early adopters and existing users.
+From a business perspective, user sentiment is **strongly feature-driven rather than brand-driven**. Word cloud analysis shows that discussions are centered on product capabilities such as lens quality, sensor performance, battery life, software updates, and upgrades. Positive sentiment aligns closely with purchase intent and upgrade interest, indicating strong demand among early adopters and existing users.
 
 The recurring presence of “upgrade” in both positive and negative contexts reflects high customer expectations, where incremental improvements risk backlash if they fail to deliver meaningful value.
 
-Additionally, frequent mentions of competitors including DJI and Osmo highlight a highly competitive market with low switching costs, increasing the importance of clear differentiation and transparent communication.
+Additionally, **frequent mentions of competitors including DJI and Osmo highlight a highly competitive market with low switching costs**, increasing the importance of clear differentiation and transparent communication.
 
 ![](images/teaser2.png)
 
-### Game Trailers
+### Game Trailer - Fallout 4: Anniversary Edition
 #### Aim
 - Understand player expectations and engagement
 - Anticipate audience reception
@@ -93,13 +93,11 @@ Additionally, frequent mentions of competitors including DJI and Osmo highlight 
 #### Analysis
 The overall sentiment for this dataset skews negative and polarized, with an average sentiment score of 0.47 / 1.00 across 458 comments. Negative sentiment dominates the discussion (45.0%), outweighing positive (30.8%) and neutral (24.2%) feedback. The wide dispersion of sentiment scores confirms a strong divide between dissatisfied users and a smaller but vocal positive group.
 
-From a business perspective, conversation is heavily franchise- and release-driven rather than centered on gameplay mechanics alone. Word cloud analysis shows dominant themes such as “Fallout,” “Bethesda,” “new,” “version,” “remaster,” “release,” and “DLC,” indicating that user sentiment is shaped largely by expectations around new releases, remakes, and updates.
-
-Positive sentiment is fueled by nostalgia and anticipation, reflected in terms like “new Vegas,” “remaster,” “anniversary,” “free,” and “awesome.” These users express excitement about revisiting familiar titles and perceive value when content additions or updates feel meaningful.
+From a business perspective, conversation is **heavily franchise- and release-driven rather than centered on gameplay mechanics alone**. Word cloud analysis shows dominant themes such as “Fallout,” “Bethesda,” “new,” “version,” “remaster,” “release,” and “DLC,” indicating that user sentiment is shaped largely by expectations around new releases, remakes, and updates.
 
 Negative sentiment, however, is more prevalent and more specific. Common terms such as “old,” “nothing,” “mod,” “wait,” “money,” “need,” and “play Skyrim again” point to frustration with perceived lack of innovation, repetitive re-releases, and reliance on modding communities. Complaints appear less about technical failure and more about strategic direction and content freshness.
 
-The recurring appearance of “remaster” and “new version” in negative contexts suggests release fatigue. Users expect substantive changes, not incremental updates to existing titles. When expectations are unmet, disappointment translates quickly into negative sentiment.
+**The recurring appearance of “remaster” and “new version” in negative contexts suggests release fatigue.** Users expect substantive changes, not incremental updates to existing titles. When expectations are unmet, disappointment translates quickly into negative sentiment.
 
 ![](images/game2.png)
 
