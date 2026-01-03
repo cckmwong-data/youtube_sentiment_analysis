@@ -85,7 +85,7 @@ Additionally, **frequent mentions of competitors including DJI and Osmo highligh
 #### Actionable Insights
 Since there are concerns over specific product capabilities, the company can anchor marketing messages around quantifiable improvements: battery life increase (% or minutes), sensor performance (low-light, resolution, FPS), software or stabilization upgrades. 
 
-In view of the fierce competition with low switching cost, the company can differentiate itself by explicitly position HERO13 against competitor by identifying the strengths competitors can’t match, for instance durability abd accessories.
+In view of the fierce competition with low switching cost, the company can differentiate itself by explicitly position HERO13 against competitor by identifying the strengths competitors can’t match, for instance durability and accessories.
 
 ### Game Trailer - Fallout 4: Anniversary Edition
 #### Aim
