@@ -1,5 +1,10 @@
 # Deep Learning–Based Sentiment Analysis
 
+## Problem Statement
+In the age of social media, understanding public sentiment has become essential for businesses, organizations, and researchers. Twitter, as one of the largest platforms for public expression, offers a vast and valuable source of data for sentiment analysis. The goal of this project is to develop a machine learning model capable of accurately classifying the sentiment of social media comments as either positive or negative. This analysis can provide actionable insights to help organizations tailor their products and marketing strategies, improve customer service, and ultimately enhance user satisfaction.
+
+---
+
 ## Project Overview
 
 This project presents an end-to-end sentiment analysis system for YouTube comments, combining a custom deep learning model and a transformer-based model, and deploying them through an interactive [Streamlit web application](https://huggingface.co/spaces/cckmwong/youtube_sentiment_demo). 
