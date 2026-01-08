@@ -17,6 +17,8 @@ Due to daily quota limitations of the YouTube Data API, this demonstration uses 
 
 ## Sentiment & Business Insight
 
+In the demo application, different YouTube videos are used for sentiment analysis which include new product teaser and game trailer.
+
 ### New Product Teaser - Everything New with GoPro HERO13 Black
 #### Aim
 - Measure customer excitement before product launch
