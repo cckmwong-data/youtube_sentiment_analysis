@@ -85,7 +85,7 @@ The whole project consists of two main stages:
    - Integrating a transformer-based model (RoBERTa)
    - Deploying a Streamlit application that allows users to select and compare models
 
-* he custom-trained LSTM model achieved an accuracy of **0.78** on the test set, outperforming traditional rule-based sentiment approaches including TextBlob (**0.61**) and VADER (**0.63**). These results highlight the benefit of using deep learning methods for capturing contextual patterns, negations, and subtle emotional cues in social media text.
+* The custom-trained LSTM model achieved an accuracy of **0.78** on the test set, outperforming traditional rule-based sentiment approaches including TextBlob (**0.61**) and VADER (**0.63**). These results highlight the benefit of using deep learning methods for capturing contextual patterns, negations, and subtle emotional cues in social media text.
 
 ---
 
