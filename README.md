@@ -77,7 +77,7 @@ The whole project consists of two main stages:
 1. **Model Development**
    - Data preprocessing and exploratory analysis
    - Training a custom LSTM sentiment analysis model
-   - Compare its performance with traditional approaches, TextBlob and VADER
+   - Accuracy of the custom LSTM model (0.78) is signficantly higher than those of traditional approaches, TextBlob (0.61) and VADER (0.63)
    - Saving and exporting the trained model for deployment
 
 3. **Model Deployment**
