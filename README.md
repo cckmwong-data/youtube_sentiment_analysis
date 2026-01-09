@@ -125,14 +125,6 @@ In a full implementation of this application, users would be able to input any Y
 
 ---
 
-## Future Improvements
-
-- Multilingual sentiment analysis
-- Advanced sentiment categorization
-- Sentiment trend visualization
-
----
-
 ## Author
 
 **Carmen Wong**
