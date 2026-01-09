@@ -19,7 +19,7 @@ Due to daily quota limitations of the YouTube Data API, this demonstration uses 
 
 In the demo application, different YouTube videos are used for sentiment analysis which include new product teaser and game trailer.
 
-### New Product Teaser - Everything New with GoPro HERO13 Black
+### [New Product Teaser - Everything New with GoPro HERO13 Black](https://youtu.be/_PMRqrna4sU?si=iTA2UgcpyBs6PrtG)
 #### Aim
 - Measure customer excitement before product launch
 - Identify potential concerns or negative reactions
@@ -41,7 +41,7 @@ Since there are concerns over specific product capabilities, the company can anc
 
 In view of the fierce competition with low switching cost, the company can differentiate itself by explicitly position HERO13 against competitor by identifying the strengths competitors can’t match, for instance durability and accessories.
 
-### Game Trailer - Fallout 4: Anniversary Edition
+### [Game Trailer - Fallout 4: Anniversary Edition](https://youtu.be/dRpy9SYCxuk?si=nUJua0uA2XQZlHR5)
 #### Aim
 - Understand player expectations and engagement
 - Anticipate audience reception
@@ -61,7 +61,7 @@ Negative sentiment, however, is more prevalent and more specific. Common terms s
 #### Actionable Insights
 Sentiment is strongly influenced by release strategy, with disappointment in release fatigue. The company can lead messaging with what is genuinely new including systems, content depth and mechanics. 
 
-### Social Topic - What is London's controversial Ulez expansion?
+### [Social Topic - What is London's controversial Ulez expansion?](https://youtu.be/2RqAwpjJatw?si=iw_8Esjgzw-LReQ2)
 - Monitor public sentiment
 - Assess reputational impact
 - Inform communication and policy strategies
