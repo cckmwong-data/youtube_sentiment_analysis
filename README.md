@@ -25,7 +25,7 @@ Due to daily quota limitations of the YouTube Data API, this demonstration uses 
 In the demo application, different YouTube videos are used for sentiment analysis which include new product teaser and game trailer.
 
 ### [New Product Teaser - Everything New with GoPro HERO13 Black](https://youtu.be/_PMRqrna4sU?si=iTA2UgcpyBs6PrtG)
-#### Aim
+#### Business Impact
 - Measure customer excitement before product launch
 - Identify potential concerns or negative reactions
 - Improve marketing strategies and product positioning
@@ -37,8 +37,6 @@ The overall sentiment analysis indicates a slightly positive but polarized user 
 
 From a business perspective, user sentiment is **strongly feature-driven rather than brand-driven**. Word cloud analysis shows that discussions are centered on product capabilities such as lens quality, sensor performance, battery life, software updates, and upgrades. Positive sentiment aligns closely with purchase intent and upgrade interest, indicating strong demand among early adopters and existing users.
 
-The recurring presence of “upgrade” in both positive and negative contexts reflects high customer expectations, where incremental improvements risk backlash if they fail to deliver meaningful value.
-
 Additionally, **frequent mentions of competitors including DJI and Osmo highlight a highly competitive market with low switching costs**, increasing the importance of clear differentiation and transparent communication.
 
 #### Actionable Insights
@@ -47,7 +45,7 @@ Since there are concerns over specific product capabilities, the company can anc
 In view of the fierce competition with low switching cost, the company can differentiate itself by explicitly position HERO13 against competitor by identifying the strengths competitors can’t match, for instance durability and accessories.
 
 ### [Game Trailer - Fallout 4: Anniversary Edition](https://youtu.be/dRpy9SYCxuk?si=nUJua0uA2XQZlHR5)
-#### Aim
+#### Business Impact
 - Understand player expectations and engagement
 - Anticipate audience reception
 - Support promotional decision-making
@@ -59,7 +57,7 @@ The overall sentiment for this dataset skews negative and polarized, with an ave
 
 From a business perspective, conversation is **heavily franchise- and release-driven rather than centered on gameplay mechanics alone**. Word cloud analysis shows dominant themes such as “Fallout,” “Bethesda,” “new,” “version,” “remaster,” “release,” and “DLC,” indicating that user sentiment is shaped largely by expectations around new releases, remakes, and updates.
 
-Negative sentiment, however, is more prevalent and more specific. Common terms such as “old,” “nothing,” “mod,” “wait,” “money,” “need,” and “play Skyrim again” point to frustration with perceived lack of innovation, repetitive re-releases, and reliance on modding communities. Complaints appear less about technical failure and more about strategic direction and content freshness.
+Negative sentiment, however, is more prevalent and more specific. Common terms such as “old,” “nothing,” “mod,” (i.e. "modification"), “wait,” “money,” “need,” and “already” point to frustration with perceived lack of innovation, repetitive re-releases, and reliance on modding communities. Complaints appear less about technical failure and more about strategic direction and content freshness.
 
 **The recurring appearance of “remaster” and “new version” in negative contexts suggests release fatigue.** Users expect substantive changes, not incremental updates to existing titles. When expectations are unmet, disappointment translates quickly into negative sentiment.
 
