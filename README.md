@@ -20,12 +20,12 @@ Due to daily quota limitations of the YouTube Data API, this demonstration uses 
 
 ---
 
-## Sentiment & Business Insight
+## Sentiment & Business Insights
 
 In the demo application, different YouTube videos are used for sentiment analysis which include new product teaser and game trailer.
 
 ### [New Product Teaser - Everything New with GoPro HERO13 Black](https://youtu.be/_PMRqrna4sU?si=iTA2UgcpyBs6PrtG)
-#### Business Impact
+#### Business Impacts
 - Measure customer excitement before product launch
 - Identify potential concerns or negative reactions
 - Improve marketing strategies and product positioning
@@ -45,7 +45,7 @@ Since there are concerns over specific product capabilities, the company can anc
 In view of the fierce competition with low switching cost, the company can differentiate itself by explicitly position HERO13 against competitor by identifying the strengths competitors can’t match, for instance durability and accessories.
 
 ### [Game Trailer - Fallout 4: Anniversary Edition](https://youtu.be/dRpy9SYCxuk?si=nUJua0uA2XQZlHR5)
-#### Business Impact
+#### Business Impacts
 - Understand player expectations and engagement
 - Anticipate audience reception
 - Support promotional decision-making
