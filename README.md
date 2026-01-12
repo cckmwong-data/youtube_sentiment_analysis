@@ -3,7 +3,7 @@
 ---
 ## Highlights
 
-- End-to-end sentiment analysis system combining custom LSTM and transformer-based (RoBERTa) models
+- End-to-end sentiment analysis combining custom LSTM and transformer-based (RoBERTa) models
 - Interactive Streamlit web application deployed on Hugging Face Spaces (zero cost free-tier deployment)
 - Supports sentiment classification for real social media content (YouTube comments)
 - Demonstrates practical business applications for marketing, product, and strategy teams
@@ -67,7 +67,7 @@ Additionally, **frequent mentions of competitors including DJI and Osmo highligh
 #### Actionable Insights
 Since there are concerns over specific product capabilities, the company can anchor marketing messages around quantifiable improvements: battery life increase (% or minutes), sensor performance (low-light, resolution, FPS), software or stabilization upgrades. 
 
-In view of the fierce competition with low switching cost, the company can differentiate itself by explicitly position HERO13 against competitor by identifying the strengths competitors can’t match, for instance durability and accessories.
+In view of the fierce competition with low switching cost, the company can differentiate itself by explicitly positioning HERO13 against competitor by identifying the strengths competitors can’t match, for instance durability and accessories.
 
 ### [Game Trailer - Fallout 4: Anniversary Edition](https://youtu.be/dRpy9SYCxuk?si=nUJua0uA2XQZlHR5)
 #### Business Impacts
