@@ -115,15 +115,13 @@ The whole project consists of two main stages:
 1. **Model Development**
    - Data preprocessing and exploratory analysis
    - Training a custom LSTM sentiment analysis model
-   - #Compare the performance of the custom LSTM model with traditional approaches, TextBlob and VADER
+   - Compare the performance of the custom LSTM model with traditional approaches, TextBlob and VADER
    - Saving and exporting the trained model for deployment
 
 3. **Model Deployment**
    - Hosting the trained LSTM model on Hugging Face
    - Integrating a transformer-based model (RoBERTa)
    - Deploying a Streamlit application that allows users to select and compare models
-
-#The custom-trained LSTM model achieved an accuracy of **0.78** on the test set, outperforming traditional rule-based sentiment approaches including TextBlob (**0.61**) and VADER (**0.63**). These results highlight the benefit of using deep learning methods for capturing contextual patterns, negations, and subtle emotional cues in social media text.
 
 ---
 
