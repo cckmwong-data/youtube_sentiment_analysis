@@ -1,6 +1,31 @@
 # Deep Learning–Based Sentiment Analysis
 
 ---
+## Highlights
+
+- End-to-end sentiment analysis system combining custom LSTM and transformer-based (RoBERTa) models
+- Interactive Streamlit web application deployed on Hugging Face Spaces (zero cost free-tier deployment)
+- Supports sentiment classification for real social media content (YouTube comments)
+- Demonstrates practical business applications for marketing, product, and strategy teams
+- Custom-trained deep learning model (LSTM) outperforms rule-based baselines (TextBlob and VADER)
+
+---
+
+## Skills Demonstrated
+
+✔ **Deep Learning & Natural Language Processing (NLP)**: tokenization, embeddings, transformer inference
+
+✔ **API & Data Handling**: YouTube sentiment datasets, API quota workarounds, preloading strategy for demo app
+
+✔ **Model Development**: custom LSTM training, performance evaluation, model export
+
+✔ **Comparative Benchmarking**: baseline comparison vs TextBlob and VADER
+
+✔ **Application Deployment**: Streamlit UI, Hugging Face Spaces hosting with awareness of resource constraints
+
+✔ **Business Analytics & Insight Generation**: sentiment interpretation, user behavior analysis, product & marketing implications
+
+---
 
 ## Problem Statement
 In the age of social media, understanding public sentiment has become essential for businesses, organizations, and researchers. Twitter, as one of the largest platforms for public expression, offers a vast and valuable source of data for sentiment analysis. 
@@ -69,6 +94,17 @@ Sentiment is strongly influenced by release strategy, with disappointment in rel
 - Monitor public sentiment
 - Assess reputational impact
 - Inform communication and policy strategies
+
+---
+
+## Results Summary
+
+- Custom LSTM achieved test accuracy of 0.78, outperforming TextBlob (0.61) and VADER (0.63)
+- Transformer model (RoBERTa) demonstrated superior contextual understanding (especially negations and subtle emotional cues)
+- Product teaser video: positive but polarized sentiment using LSTM model (avg score: 0.58 / 1.00) 
+- Game trailer: negative skew due to release fatigue and unmet expectations using LSTM model (avg score: 0.47 / 1.00)
+- Application successfully deployed to Hugging Face Spaces under zero-cost free tier
+- Demonstrates practical uses for customer sentiment tracking, competitive strategy, and release planning
 
 ---
 
