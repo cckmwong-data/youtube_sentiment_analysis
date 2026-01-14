@@ -3,6 +3,11 @@
 A deep learning sentiment analysis solution for interpreting real user feedback and extracting actionable insights from social media data.
 
 ---
+
+![Streamlit App Demo](images/full_app.png)
+
+---
+
 ## Highlights
 
 - End-to-end sentiment analysis combining custom LSTM and transformer-based (RoBERTa) models
@@ -158,9 +163,7 @@ The final deliverable of this project is a [Streamlit web application](https://h
 
 ### Full Application
 
-In a full implementation of this application, users would be able to input any YouTube video URL, allowing the system to extract comments in real time using the YouTube Data API. Please check out [here](https://youtu.be/KlG7qcbPQD4) for the video demonstration of full implementation:
-
-![Streamlit App Demo](images/full_app.png)
+In a full implementation of this application, users would be able to input any YouTube video URL, allowing the system to extract comments in real time using the YouTube Data API. Please check out [here](https://youtu.be/KlG7qcbPQD4) for the video demonstration of full implementation.
 
 ---
 
