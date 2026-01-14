@@ -1,4 +1,4 @@
-# Deep Learning–Based Sentiment Analysis
+# Deep Learning-Based Sentiment Analysis
 
 A deep learning sentiment analysis solution for interpreting real user feedback and extracting actionable insights from social media data.
 
