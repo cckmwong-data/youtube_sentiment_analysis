@@ -2,7 +2,6 @@
 
 A deep learning sentiment analysis solution for interpreting real user feedback and extracting actionable insights from social media data.
 
----
 
 ![Streamlit App Demo](images/full_app.png)
 
