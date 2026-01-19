@@ -47,7 +47,7 @@ The goal of this project is to develop a machine learning model capable of accur
 
 This project presents an end-to-end sentiment analysis system for YouTube comments, combining a custom deep learning model (LSTM) and a transformer-based model (RoBERTa), and deploying them through an interactive [Streamlit web application](https://huggingface.co/spaces/cckmwong/youtube_sentiment_demo). 
 
-Due to daily quota limitations of the YouTube Data API, this demonstration uses preloaded comments to ensure a stable and consistent user experience while effectively showcasing the system’s sentiment analysis capabilities. **In a full implementation** (please click [here](https://youtu.be/KlG7qcbPQD4) for video demo), **users would be able to input any YouTube video URL and extract comments in real time using the YouTube Data API.** 
+Due to daily quota limitations of the YouTube Data API, this demonstration uses preloaded comments to ensure a stable and consistent user experience while effectively showcasing the system’s sentiment analysis capabilities. **In a full implementation** (please click [here](https://youtu.be/WGJ-9vRK5KQ) for video demo), **users would be able to input any YouTube video URL and extract comments in real time using the YouTube Data API.** 
 
 ---
 
@@ -162,7 +162,7 @@ The final deliverable of this project is a [Streamlit web application](https://h
 
 ### Full Application
 
-In a full implementation of this application, users would be able to input any YouTube video URL, allowing the system to extract comments in real time using the YouTube Data API. Please check out [here](https://youtu.be/KlG7qcbPQD4) for the video demonstration of full implementation.
+In a full implementation of this application, users would be able to input any YouTube video URL, allowing the system to extract comments in real time using the YouTube Data API. Please check out [here](https://youtu.be/WGJ-9vRK5KQ) for the video demonstration of full implementation.
 
 ---
 
