@@ -1,4 +1,4 @@
-# Deep Learning-Based Sentiment Analysis
+# LSTM–RoBERTa Sentiment Analyzer
 
 A deep learning sentiment analysis solution for interpreting real user feedback and extracting actionable insights from social media data.
 
