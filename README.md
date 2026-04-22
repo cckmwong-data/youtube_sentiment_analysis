@@ -13,7 +13,7 @@ A deep learning sentiment analysis solution for interpreting real user feedback 
 - End-to-end sentiment analysis combining custom *LSTM* and transformer-based (*RoBERTa*) models
 - Interactive Streamlit web application deployed on Hugging Face Spaces (zero cost free-tier deployment)
 - Supports sentiment classification for real social media content (YouTube comments)
-- Demonstrates practical business applications for marketing, product, and strategy teams
+- Demonstrates practical business applications for marketing and product development teams
 - Custom-trained deep learning model (LSTM) outperforms rule-based baselines (TextBlob and VADER)
 
 ---
