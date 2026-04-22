@@ -1,0 +1,12 @@
+streamlit
+pandas
+seaborn
+matplotlib
+nltk
+wordcloud
+tensorflow-cpu
+scikit-learn
+google-api-python-client
+scipy
+transformers==4.45.0
+torch>=2.2.0
