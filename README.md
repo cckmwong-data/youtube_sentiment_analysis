@@ -30,7 +30,7 @@ A deep learning sentiment analysis solution for interpreting real user feedback 
 
 ✔ **Application Deployment**: Streamlit UI, Hugging Face Spaces hosting with awareness of resource constraints
 
-✔ **Business Analytics & Insight Generation**: sentiment interpretation, user behavior analysis, product & marketing implications
+✔ **Model Section**: User can switch between a custom-trained LSTM and a robust RoBERTa transformer
 
 ---
 
