@@ -37,7 +37,7 @@ A deep learning sentiment analysis solution for interpreting real user feedback 
 ## Problem Statement
 In the age of social media, understanding public sentiment has become essential for businesses. Twitter, as one of the largest platforms for public expression, offers a vast and valuable source of data for sentiment analysis. 
 
-The goal of this project is to develop machine learning models (LSTM and roBERTa transformer) capable of accurately classifying the sentiment of social media comments as either positive or negative. This analysis can provide actionable insights to help organizations tailor their products and marketing strategies, improve customer service, and ultimately enhance user satisfaction.
+The goal of this project is to develop machine learning models (LSTM and roBERTa transformer) capable of accurately classifying the sentiment of social media comments as either positive, neutral or negative. This analysis can provide actionable insights to help organizations tailor their products and marketing strategies, improve customer service, and ultimately enhance user satisfaction.
 
 ---
 
