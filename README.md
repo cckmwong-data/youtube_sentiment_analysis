@@ -110,7 +110,6 @@ Sentiment is strongly influenced by release strategy, with disappointment in rel
 - Transformer model (RoBERTa) demonstrated superior contextual understanding (especially negations and subtle emotional cues)
 - Product teaser video: positive but polarized sentiment using LSTM model (avg score: 0.58 / 1.00) 
 - Game trailer: negative skew due to release fatigue and unmet expectations using LSTM model (avg score: 0.47 / 1.00)
-- Application successfully deployed to Hugging Face Spaces under zero-cost free tier
 - Demonstrates practical uses for customer sentiment tracking, competitive strategy, and release planning
 
 ---
@@ -121,9 +120,9 @@ The whole project consists of two main stages:
 
 1. **Model Development**
    - Data preprocessing and exploratory analysis
-   - Training a custom LSTM sentiment analysis model
+   - Training a custom LSTM sentiment analysis model with 1.6 million pre-labeled tweets
    - Compare the performance of the custom LSTM model with traditional approaches, TextBlob and VADER
-   - Saving and exporting the trained model for deployment
+   - Saving and exporting the trained model for deployment (.keras)
 
 3. **Model Deployment**
    - Hosting the trained LSTM model on Hugging Face
