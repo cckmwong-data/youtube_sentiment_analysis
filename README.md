@@ -65,9 +65,9 @@ In the demo application, different YouTube videos are used for sentiment analysi
 #### Analysis
 The overall sentiment analysis indicates a slightly positive but polarized user perception. Both models showw an average sentiment score of 0.58 / 1.00 across 402 comments. While positive sentiment dominates, the wide score dispersion highlights a clear divide between enthusiastic supporters and dissatisfied users.
 
-| |Customer LSTM | Transformer (RoBERTa) |
+| |Custom-trained LSTM | Transformer (RoBERTa) |
 | :--- | :--- | :--- |
-| Score | 0.58 | 0.58 |
+| Avg. Score out of 1.00 | 0.58 | 0.58 |
 | % of Positive Comments | 44.8% | 32.8% |
 | % of Neutral Comments | 28.9% | 51.2% |
 | % of Negative Comments | 26.4% | 15.9% |
