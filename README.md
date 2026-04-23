@@ -77,6 +77,8 @@ The overall sentiment analysis indicates a slightly positive but polarized user 
 
 From a business perspective, user sentiment is **strongly feature-driven rather than brand-driven**. Word cloud analysis shows that discussions are centered on product capabilities such as lens quality, sensor performance, battery life, software updates, and upgrades. Positive sentiment aligns closely with purchase intent and upgrade interest, indicating strong demand among early adopters and existing users.
 
+<img src="images/teaser_cloud2.png" width="" height="350"> 
+
 Additionally, **frequent mentions of competitors including DJI and Osmo highlight a highly competitive market with low switching costs**, increasing the importance of clear differentiation and transparent communication.
 
 <img src="images/teaser_cloud.png" width="" height="350"> 
