@@ -65,12 +65,12 @@ In the demo application, different YouTube videos are used for sentiment analysi
 #### Analysis
 The overall sentiment analysis indicates a slightly positive but polarized user perception. Both models showw an average sentiment score of 0.58 / 1.00 across 402 comments. While positive sentiment dominates, the wide score dispersion highlights a clear divide between enthusiastic supporters and dissatisfied users.
 
-| | LSTM | Transformer (RoBERTa) |
+| |Customer LSTM | Transformer (RoBERTa) |
 | :--- | :--- | :--- |
 | Score | 0.58 | 0.58 |
-| % of Positive Sentiment | 44.8% | 32.8% |
-| Score | 0.58 | 0.58 |
-| Score | 0.58 | 0.58 |
+| % of Positive Comments | 44.8% | 32.8% |
+| % of Neutral Comments | 28.9% | 51.2% |
+| % of Negative Comments | 26.4% | 15.9% |
 
 From a business perspective, user sentiment is **strongly feature-driven rather than brand-driven**. Word cloud analysis shows that discussions are centered on product capabilities such as lens quality, sensor performance, battery life, software updates, and upgrades. Positive sentiment aligns closely with purchase intent and upgrade interest, indicating strong demand among early adopters and existing users.
 
