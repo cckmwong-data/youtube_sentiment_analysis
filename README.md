@@ -63,9 +63,12 @@ In the demo application, different YouTube videos are used for sentiment analysi
 - Improve marketing strategies and product positioning
 
 #### Analysis
-The overall sentiment analysis indicates a slightly positive but polarized user perception, with an average sentiment score of 0.58 / 1.00 across 402 comments. Positive feedback represents the largest share (44.8%), followed by neutral (28.9%) and negative (26.4%) comments. While positive sentiment dominates, the wide score dispersion highlights a clear divide between enthusiastic supporters and dissatisfied users.
+The overall sentiment analysis indicates a slightly positive but polarized user perception. Both models showw an average sentiment score of 0.58 / 1.00 across 402 comments. While positive sentiment dominates, the wide score dispersion highlights a clear divide between enthusiastic supporters and dissatisfied users.
 
-<img src="images/teaser_chart.png" width="" height="350"><img src="images/teaser3.png" width="" height="350">
+| | LSTM | Transformer (RoBERTa) |
+| :--- | :---: | ---: |
+| Left aligned | Centered | Right aligned |
+| Row 2 | Data | $100 |
 
 From a business perspective, user sentiment is **strongly feature-driven rather than brand-driven**. Word cloud analysis shows that discussions are centered on product capabilities such as lens quality, sensor performance, battery life, software updates, and upgrades. Positive sentiment aligns closely with purchase intent and upgrade interest, indicating strong demand among early adopters and existing users.
 
