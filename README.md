@@ -63,8 +63,11 @@ In the demo application, different YouTube videos are used for sentiment analysi
 - Improve marketing strategies and product positioning
 
 #### Analysis
-The overall sentiment analysis indicates a slightly positive but polarized user perception. Both models showw an average sentiment score of 0.58 / 1.00 across 402 comments. While positive sentiment dominates, the wide score dispersion highlights a clear divide between enthusiastic supporters and dissatisfied users.
+The overall sentiment analysis indicates a slightly positive but polarized user perception. Both models show an average sentiment score of 0.58 / 1.00 across 402 comments. The wide score dispersion highlights a clear divide between enthusiastic supporters and dissatisfied users.
 
+<img src="images/teaser_score_roberta.png" width="" height="200"> 
+
+Model Comparison & Results
 | |Custom-trained LSTM | Transformer (RoBERTa) |
 | :--- | :--- | :--- |
 | Avg. Score out of 1.00 | 0.58 | 0.58 |
@@ -75,6 +78,8 @@ The overall sentiment analysis indicates a slightly positive but polarized user 
 From a business perspective, user sentiment is **strongly feature-driven rather than brand-driven**. Word cloud analysis shows that discussions are centered on product capabilities such as lens quality, sensor performance, battery life, software updates, and upgrades. Positive sentiment aligns closely with purchase intent and upgrade interest, indicating strong demand among early adopters and existing users.
 
 Additionally, **frequent mentions of competitors including DJI and Osmo highlight a highly competitive market with low switching costs**, increasing the importance of clear differentiation and transparent communication.
+
+<img src="images/teaser_cloud.png" width="" height="200"> 
 
 #### Actionable Insights
 Since there are concerns over specific product capabilities, the company can anchor marketing messages around quantifiable improvements: battery life increase (% or minutes), sensor performance (low-light, resolution, FPS), software or stabilization upgrades. 
@@ -88,15 +93,23 @@ In view of the fierce competition with low switching cost, the company can diffe
 - Support promotional decision-making
 
 #### Analysis
-The overall sentiment for this dataset skews negative and polarized, with an average sentiment score of 0.47 / 1.00 across 458 comments. Negative sentiment dominates the discussion (45.0%), outweighing positive (30.8%) and neutral (24.2%) feedback. The wide dispersion of sentiment scores confirms a strong divide between dissatisfied users and a smaller but vocal positive group.
+The overall sentiment for this dataset skews negative and polarized, with an average sentiment score of 0.47 (LSTM) and 0.43 (RoBERTa) across 458 comments. The wide dispersion of sentiment scores confirms a strong divide between dissatisfied users and a smaller but vocal positive group.
 
-<img src="images/game_chart.png" width="" height="350"><img src="images/game3.png" width="" height="350">
+Model Comparison & Results
+| |Custom-trained LSTM | Transformer (RoBERTa) |
+| :--- | :--- | :--- |
+| Avg. Score out of 1.00 | 0.47 | 0.43 |
+| % of Positive Comments | 30.8% | 15.7% |
+| % of Neutral Comments | 24.2% | 54.1% |
+| % of Negative Comments | 45.0% | 30.1% |
 
 From a business perspective, conversation is **heavily franchise- and release-driven rather than centered on gameplay mechanics alone**. Word cloud analysis shows dominant themes such as “Fallout,” “Bethesda,” “new,” “version,” “remaster,” “release,” and “DLC,” indicating that user sentiment is shaped largely by expectations around new releases, remakes, and updates.
 
 Negative sentiment, however, is more prevalent and more specific. Common terms such as “old,” “nothing,” “mod,” (i.e. "modification"), “wait,” “money,” “need,” and “already” point to frustration with perceived lack of innovation, repetitive re-releases, and reliance on modding communities. Complaints appear less about technical failure and more about strategic direction and content freshness.
 
 **The recurring appearance of “remaster” and “new version” in negative contexts suggests release fatigue.** Users expect substantive changes, not incremental updates to existing titles. When expectations are unmet, disappointment translates quickly into negative sentiment.
+
+<img src="images/game_cloud.png" width="" height="200"> 
 
 #### Actionable Insights
 Sentiment is strongly influenced by release strategy, with disappointment in release fatigue. The company can lead messaging with what is genuinely new including systems, content depth and mechanics. 
