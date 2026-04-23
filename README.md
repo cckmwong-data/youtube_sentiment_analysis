@@ -67,7 +67,7 @@ The overall sentiment analysis indicates a slightly positive but polarized user 
 
 <img src="images/teaser_score_roberta.png" width="" height="350"> 
 
-Model Comparison & Results
+#### Model Comparison & Results
 | |Custom-trained LSTM | Transformer (RoBERTa) |
 | :--- | :--- | :--- |
 | Avg. Score out of 1.00 | 0.58 | 0.58 |
@@ -95,7 +95,7 @@ In view of the fierce competition with low switching cost, the company can diffe
 #### Analysis
 The overall sentiment for this dataset skews negative and polarized, with an average sentiment score of 0.47 (LSTM) and 0.43 (RoBERTa) across 458 comments. The wide dispersion of sentiment scores confirms a strong divide between dissatisfied users and a smaller but vocal positive group.
 
-Model Comparison & Results
+#### Model Comparison & Results
 | |Custom-trained LSTM | Transformer (RoBERTa) |
 | :--- | :--- | :--- |
 | Avg. Score out of 1.00 | 0.47 | 0.43 |
