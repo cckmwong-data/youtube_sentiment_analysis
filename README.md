@@ -84,7 +84,7 @@ Additionally, **frequent mentions of competitors including DJI and Osmo highligh
 <img src="images/teaser_cloud.png" width="" height="350"> 
 
 #### Actionable Insights
-Since there are concerns over specific product capabilities, the company can anchor marketing messages around quantifiable improvements: battery life increase (% or minutes), sensor performance (low-light, resolution, FPS), software or stabilization upgrades. 
+Since there are concerns over specific product capabilities, the company can anchor marketing messages around quantifiable improvements: battery life increase, sensor performance or software upgrades. 
 
 In view of the fierce competition with low switching cost, the company can differentiate itself by explicitly positioning HERO13 against competitor by identifying the strengths competitors can’t match, for instance durability and accessories.
 
@@ -105,9 +105,9 @@ In view of the fierce competition with low switching cost, the company can diffe
 #### Analysis
 The overall sentiment for this dataset skews negative and polarized, with an average sentiment score of 0.47 (LSTM) and 0.43 (RoBERTa) across 458 comments. The wide dispersion of sentiment scores confirms a strong divide between dissatisfied users and a smaller but vocal positive group.
 
-From a business perspective, conversation is **heavily franchise- and release-driven rather than centered on gameplay mechanics alone**. Word cloud analysis shows dominant themes such as “Fallout,” “Bethesda,” “new,” “version,” “remaster,” “release,” and “DLC,” indicating that user sentiment is shaped largely by expectations around new releases, remakes, and updates.
+From a business perspective, conversation is **heavily franchise- and release-driven rather than centered on gameplay mechanics alone**. Word cloud analysis shows dominant themes such as “new” “version” “remaster” “release” and “DLC” (i.e. Downloadable Content) indicating that user sentiment is shaped largely by expectations around new releases, remakes, and updates.
 
-Negative sentiment, however, is more prevalent and more specific. Common terms such as “old,” “nothing,” “mod,” (i.e. "modification"), “wait,” “money,” “need,” and “already” point to frustration with perceived lack of innovation, repetitive re-releases, and reliance on modding communities. Complaints appear less about technical failure and more about strategic direction and content freshness.
+Negative sentiment, however, is more prevalent and more specific. Common terms such as “old,” “nothing,” “mod,” (i.e. modification), “wait,” “money,” “need,” and “already” point to frustration with perceived lack of innovation, repetitive re-releases, and reliance on modding communities. Complaints appear less about technical failure and more about strategic direction and content freshness.
 
 **The recurring appearance of “remaster” and “new version” in negative contexts suggests release fatigue.** Users expect substantive changes, not incremental updates to existing titles. When expectations are unmet, disappointment translates quickly into negative sentiment.
 
@@ -115,22 +115,6 @@ Negative sentiment, however, is more prevalent and more specific. Common terms s
 
 #### Actionable Insights
 Sentiment is strongly influenced by release strategy, with disappointment in release fatigue. The company can lead messaging with what is genuinely new including systems, content depth and mechanics. 
-
-### [Social Topic - What is London's controversial Ulez expansion?](https://youtu.be/2RqAwpjJatw?si=iw_8Esjgzw-LReQ2)
-#### Aims
-- Monitor public sentiment
-- Assess reputational impact
-- Inform communication and policy strategies
-
----
-
-## Results Summary
-
-- Custom LSTM achieved test accuracy of 0.78, outperforming TextBlob (0.61) and VADER (0.63)
-- Transformer model (RoBERTa) demonstrated superior contextual understanding (especially negations and subtle emotional cues)
-- Product teaser video: positive but polarized sentiment using LSTM model (avg score: 0.58 / 1.00) 
-- Game trailer: negative skew due to release fatigue and unmet expectations using LSTM model (avg score: 0.47 / 1.00)
-- Demonstrates practical uses for customer sentiment tracking, competitive strategy, and release planning
 
 ---
 
@@ -141,7 +125,7 @@ The whole project consists of two main stages:
 1. **Model Development**
    - Data preprocessing and exploratory analysis
    - Training a custom LSTM sentiment analysis model with 1.6 million pre-labeled tweets
-   - Compare the performance of the custom LSTM model with traditional approaches, TextBlob and VADER
+   - Compare the performance of the custom LSTM model with traditional approaches - TextBlob and VADER
    - Saving and exporting the trained model for deployment (.keras)
 
 3. **Model Deployment**
@@ -151,16 +135,17 @@ The whole project consists of two main stages:
 
 ---
 
-## Models
+## Model Comparison
 
 ### Custom LSTM Model
 - Trained on labeled sentiment data ([Sentiment140](https://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip))
 - Captures sequential and contextual patterns in text
+- Custom LSTM achieved test accuracy of 0.78, outperforming TextBlob (0.61) and VADER (0.63)
 - Saved and uploaded to Hugging Face for inference
 - **Lightweight and fast to run**
 
 ### Transformer Model (RoBERTa)
-- Pre-trained transformer-based sentiment analysis model
+- Pre-trained transformer-based sentiment analysis model released by META
 - Provides robust contextual understanding and strong performance
 - **High accuracy on negations and subtle emotional cues**
 - **Longer processing time due to larger model and heavier memory usage**
