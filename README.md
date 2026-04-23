@@ -65,7 +65,7 @@ In the demo application, different YouTube videos are used for sentiment analysi
 #### Analysis
 The overall sentiment analysis indicates a slightly positive but polarized user perception. Both models show an average sentiment score of 0.58 / 1.00 across 402 comments. The wide score dispersion highlights a clear divide between enthusiastic supporters and dissatisfied users.
 
-<img src="images/teaser_score_roberta.png" width="" height="200"> 
+<img src="images/teaser_score_roberta.png" width="" height="300"> 
 
 Model Comparison & Results
 | |Custom-trained LSTM | Transformer (RoBERTa) |
@@ -79,7 +79,7 @@ From a business perspective, user sentiment is **strongly feature-driven rather 
 
 Additionally, **frequent mentions of competitors including DJI and Osmo highlight a highly competitive market with low switching costs**, increasing the importance of clear differentiation and transparent communication.
 
-<img src="images/teaser_cloud.png" width="" height="200"> 
+<img src="images/teaser_cloud.png" width="" height="300"> 
 
 #### Actionable Insights
 Since there are concerns over specific product capabilities, the company can anchor marketing messages around quantifiable improvements: battery life increase (% or minutes), sensor performance (low-light, resolution, FPS), software or stabilization upgrades. 
@@ -109,7 +109,7 @@ Negative sentiment, however, is more prevalent and more specific. Common terms s
 
 **The recurring appearance of “remaster” and “new version” in negative contexts suggests release fatigue.** Users expect substantive changes, not incremental updates to existing titles. When expectations are unmet, disappointment translates quickly into negative sentiment.
 
-<img src="images/game_cloud.png" width="" height="200"> 
+<img src="images/game_cloud.png" width="" height="300"> 
 
 #### Actionable Insights
 Sentiment is strongly influenced by release strategy, with disappointment in release fatigue. The company can lead messaging with what is genuinely new including systems, content depth and mechanics. 
