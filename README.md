@@ -49,7 +49,7 @@ The goal of this project is to develop machine learning models (LSTM and roBERTa
 
 ---
 
-## Sentiment & Business Insights
+## Case Studies
 
 In the demo application, different YouTube videos are used for sentiment analysis which include new product teaser and game trailer.
 
