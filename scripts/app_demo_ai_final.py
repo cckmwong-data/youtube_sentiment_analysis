@@ -602,7 +602,7 @@ if analyze_btn:
 
                 t = tok  
             else:
-                s, sc, t = preprocess_and_predict(comment)  # your existing LSTM path
+                s, sc, t = preprocess_and_predict(comment)  # LSTM path
             sentiment.append(s)
             score.append(sc)
             tokens.append(t)
